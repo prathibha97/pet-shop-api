@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dog Food",
+    "price": 19.99,
+    "description": "Premium dog food for optimal health",
+    "image": "https://m.media-amazon.com/images/I/81xyE8OZBqL.jpg"
+  },
+  {
+    "name": "Cat Litter",
+    "price": 9.99,
+    "description": "Odor control cat litter for a fresh home",
+    "image": "https://www.petwarehouse.ph/23510/simple-pets-lavender-clumping-cat-litter-10l-8kg.jpg"
+  },
+  {
+    "name": "Bird Cage",
+    "price": 49.99,
+    "description": "Spacious bird cage with perches and accessories",
+    "image": "https://media.istockphoto.com/id/1061070090/photo/success-concept-open-birds-cell-isolation-on-a-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=XLtA-Ms-dOjiORRkLU_IxJYYs8Kz6vozaEj9MAWhdfM="
+  },
+  {
+    "name": "Fish Tank",
+    "price": 79.99,
+    "description": "Stylish fish tank with filtration system",
+    "image": "https://www.kapruka.com/shops/specialGifts/productImages/1675781283882_1_main.jpg"
+  },
+  {
+    "name": "Hamster Wheel",
+    "price": 12.99,
+    "description": "Durable exercise wheel for hamsters",
+    "image": "https://m.media-amazon.com/images/I/61KFElqVLdL.jpg"
+  }
+]
